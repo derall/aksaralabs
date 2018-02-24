@@ -1,0 +1,3 @@
+graft aksaralabs/web/templates
+graft aksaralabs/web/static
+include aksaralabs/web/schemas/schema.sql

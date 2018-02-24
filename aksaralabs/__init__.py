@@ -1,0 +1,1 @@
+from aksaralabs.web.app import app
