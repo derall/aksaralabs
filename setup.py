@@ -11,7 +11,7 @@ setup(
     install_requires=[
         'colorama==0.3.9',
         'flask==0.12.2',
-        'flask-appbuilder==1.9.6',
+        'flask-appbuilder==3.4.5',
         'flask-cache==0.13.1',
         'flask-migrate==2.1.1',
         'flask-script==2.0.6',
